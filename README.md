@@ -29,4 +29,15 @@ No machine learning was used. This is pure data analysis.
 - **Yearly trend:** There is no consistent upward trend in temperature from 
   2015–2023. Temperatures fluctuate year to year, with 2020 being the 
   coldest year, likely influenced by reduced activity during the global lockdown.
-- **Humidity:** Humid days (above 80%)
+- **Humidity:** Humid days (above 80%) vary significantly by year, peaking at 
+  around 160 days in 2021. No clear long-term trend was observed.
+- **Temperature range:** April and May have the largest gap between daily high 
+  and low temperatures, while July and August have the smallest, as monsoon 
+  clouds moderate both daytime heat and nighttime cold.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+- VS Code
